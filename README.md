@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi 👋, I'm Sabri
 
+## I'm a AI & ML Engineer From Palestine.
 <!--
 **sabriodeh/sabriodeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
