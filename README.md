@@ -48,7 +48,7 @@
 <p align="center">
 
 <a href = "https://www.linkedin.com/in/sabri-odeh/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.kaggle.com/sabrimodeh"><img src="https://img.icons8.com/fluent/48/000000/kaggle.png"/></a> 
+<a href = "https://www.kaggle.com/sabrimodeh"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png"/></a> 
 <a href = "https://www.facebook.com/profile.php?id=100001264568581"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a> 
 
 </p>
