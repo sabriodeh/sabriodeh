@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working  as** Part-time lecturer at PTUK **
+- 🔭 I’m currently working  as** Freelance Data science and AI Engineer **
 
 - 🌱 I’m currently learning **AI Master**
 
