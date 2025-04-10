@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working  as** Freelance Data science and AI Engineer **
-
-- 🌱 I’m currently learning **AI Master**
+- 🌱 **AI Master**
+  
+- 🔭 I’m currently working as ** Data science and AI Engineer **
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
