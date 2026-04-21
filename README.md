@@ -1,68 +1,97 @@
-<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/sabriodeh/sabriodeh/main/implementing-artificial-intelligence-part-1-hero.jpg" height="175px"/></a>
+# Hi, I'm Sabri Odeh 👋
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sabri</h1>
-<h3 align="center">I'm a AI & ML Engineer From Palestine</h3>
+### AI & Machine Learning Engineer · Researcher · Educator
 
+I work at the intersection of **applied machine learning**, **computer vision**, and **trustworthy AI**. My interests center on building AI systems that are not only accurate, but also **explainable, robust, and able to adapt over time**.
 
-## 🙋‍♂️ About Me
+---
 
-- 🌱 **AI Master**
-  
-- 🔭 I’m currently working as ** Data science and AI Engineer **
+## 🔭 About Me
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 📫 How to reach me **sabri.2009@hotmail.com**
-
-## 🚀 Languages and Tools:
-
-<p align="middle"> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://www.w3schools.com/CPP/default.asp" target="_blank"> <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"  width="42px" /> </a> 
-</p>
-
-<br/>
+- 🎓 **M.Sc. in Artificial Intelligence** — An-Najah National University
+- 🛠️ **B.Sc. in Mechatronics Engineering** — Palestine Technical University Kadoorie (PTUK)
+- 💼 **Data Science & AI Engineer** at *FamilySearch* — computer vision, NLP, LLMs, AWS
+- 👨‍🏫 **Part-time Lecturer** at An-Najah National University & PTUK — teaching AI, deep learning, reinforcement learning, and robotics
+- 📝 **Peer Reviewer** for *Engineering Research Express* (IOP Publishing)
 
 
+---
 
-## 📊 My Github Stats
+## 📄 Selected Publication
 
-  <br/>
-    <a href="https://github.com/sabriodeh/SubhamRaoniar28/github-readme-stats"><img alt="sabri Github Stats" src="https://github-readme-stats.vercel.app/api?username=sabriodeh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/sabriodeh/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabriodeh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+**Toward Better Solar PV Panel Fault Detection: A Multi-ML Approach for Series and Parallel Hotspot Analysis**
+*Engineering Research Express* (IOP Publishing) — Scopus-indexed, Q2
+🔗 [https://doi.org/10.1088/2631-8695/ae2e7d](https://doi.org/10.1088/2631-8695/ae2e7d)
 
-<br/>
-
-<br/>
-
-## Connect with me:
-<p align="center">
-
-<a href = "https://www.linkedin.com/in/sabri-odeh/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.kaggle.com/sabrimodeh"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png"/></a> 
-<a href = "https://www.facebook.com/profile.php?id=100001264568581"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a> 
-
-</p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=sabriodeh">
-</a>
-<a href="https://github.com/sabriodeh?tab=followers"><img src="https://img.shields.io/github/followers/sabriodeh?label=Followers&style=social" alt="GitHub Badge"></a>
-
+Companion dataset: [Series-and-Parallel-Hotspot-Dataset](https://github.com/sabriodeh/Series-and-Parallel-Hotspot-Dataset)
 
 <!--
-**sabriodeh/sabriodeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- **Trustworthy & Explainable AI** — interpretability, uncertainty quantification, model auditing
+- **Continual Learning** — lifelong adaptation, drift detection, catastrophic forgetting
+- **Neurosymbolic AI** — combining learned representations with symbolic reasoning
+- **Applied Computer Vision** — fault detection, document analysis, embodied perception
+- **AI for Real-World Impact** — energy, mobility, healthcare, and environmental monitoring
+
+---
 -->
+
+## 🛠️ Tech Stack
+
+**Languages:** Python · C++ · SQL · Scala
+**ML & DL:** PyTorch · TensorFlow · scikit-learn · Hugging Face
+**Data & Big Data:** Pandas · NumPy · Apache Kafka · Spark · Hadoop
+**Visualization:** Matplotlib · Seaborn · Plotly · Power BI
+**Cloud & MLOps:** AWS (S3, EC2) · Docker · Git
+**Domains:** Computer Vision · NLP · LLMs · Reinforcement Learning
+
+---
+
+## 📌 Selected Projects
+
+🔬 **[Series and Parallel Hotspot Dataset](https://github.com/sabriodeh/Series-and-Parallel-Hotspot-Dataset)**
+Dataset accompanying my Q2 publication on multi-ML fault detection in solar PV panels.
+
+🏠 **[House Prices — Advanced Regression Techniques](https://github.com/sabriodeh/Linear-regression-predict-House-Prices)**
+Predictive modeling with Lasso and Ridge regularization; feature engineering and evaluation.
+
+📚 **[Smart Exam Scheduler System](https://github.com/sabriodeh/Smart-Exam-Scheduler-System)**
+Constraint-based scheduling using AI search techniques.
+
+🎯 **[Smart Agent Seeking for Gem](https://github.com/sabriodeh/Smart-Agent-Seeking-for-Gem-)**
+Goal-directed agent implementation demonstrating classical AI search.
+
+📈 **[Regularized Linear Regression (L1 & L2)](https://github.com/sabriodeh/Regularize-linear-regression-model-using-L1-and-L2)**
+Hands-on exploration of regularization effects on model generalization.
+
+---
+
+## 🏆 International Experience
+
+I have represented my university in scientific and engineering competitions across **Tunisia**, **Kuwait**, **Turkey**, and **Jordan**, and presented work at international peer-reviewed conferences in Palestine and Jordan.
+
+---
+
+## 📫 Get in Touch
+
+[![Email](https://img.shields.io/badge/Email-sabri.2009%40hotmail.com-red?style=flat-square&logo=gmail)](mailto:sabri.2009@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sabri--odeh-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sabri-odeh/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-sabrimode-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/sabrimode)
+[![GitHub](https://img.shields.io/badge/GitHub-sabriodeh-black?style=flat-square&logo=github)](https://github.com/sabriodeh)
+
+---
+
+## 📊 GitHub Stats
+
+![Sabri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabriodeh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+
+![Sabri's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabriodeh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+
+---
+
+*Open to research collaborations in trustworthy AI, continual learning, and neurosymbolic reasoning.*
+
+
