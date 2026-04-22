@@ -92,6 +92,6 @@ I have represented my university in scientific and engineering competitions acro
 
 ---
 
-*Open to research collaborations in trustworthy AI, continual learning, and neurosymbolic reasoning.*
+<!-- *Open to research collaborations in trustworthy AI, continual learning, and neurosymbolic reasoning.* -->
 
 
